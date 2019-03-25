@@ -1,3 +1,9 @@
+site is ready to be published at https://theboxnwb.github.io/mediaLab3-1/src
+
+tested with Firefox and Chrome
+
+to test open the mentioned site and point the camera at hiro marker
+
 # mediaLab3
 
 This lab aims to build your first Augmented Reality (AR) app.
