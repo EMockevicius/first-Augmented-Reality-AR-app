@@ -1,20 +1,8 @@
-site is ready to be published at https://theboxnwb.github.io/mediaLab3-1/src
+site is ready to be published at https://eimantasmockevicius.github.io/mediaLab3-1/src
 
 tested with Firefox and Chrome
 
 to test open the mentioned site and point the camera at hiro marker
-
-# mediaLab3
-
-This lab aims to build your first Augmented Reality (AR) app.
-
-There are many open source alternatives to build augmented reality application. One of the web based solution is AR.js. You can try a huge set of examples: 
-https://github.com/stemkoski/AR-Examples
-
-# Requirements for repository
-  - You have to clone this repository and make two branches (master and develop).
-  - The develop branch should contain commits of every new feature of the AR application.
-  - When all features will be ready you have to merge the development branch to the master.
 
 # Requirements for AR application
 There are three options to choose from. 
