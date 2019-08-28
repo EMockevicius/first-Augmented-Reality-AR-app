@@ -1,6 +1,6 @@
 site is ready to be published at https://eimantasmockevicius.github.io/first-Augmented-Reality-AR-app/src
 
-tested with Firefox and Chrome
+tested with Firefox and Chrome on android device and linux OS
 
 to test open the mentioned site and point the camera at hiro marker
 
