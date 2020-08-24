@@ -1,4 +1,4 @@
-site is ready to be published at https://eimantasmockevicius.github.io/first-Augmented-Reality-AR-app/src
+site is ready to be published at https://emockevicius.github.io/first-Augmented-Reality-AR-app/src
 
 tested with Firefox and Chrome on android device and linux OS
 
